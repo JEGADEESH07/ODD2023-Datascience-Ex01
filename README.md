@@ -19,3 +19,12 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT
+```python
+import pandas as pd
+df=pd.read_csv("Loan_data.csv")
+print(df)
+```
+![image](https://github.com/JEGADEESH07/ODD2023-Datascience-Ex01/assets/113497131/c995bc73-f110-4396-965f-7ef3cad7bb37)
+
+
+
